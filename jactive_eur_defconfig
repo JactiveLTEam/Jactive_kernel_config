@@ -1533,6 +1533,7 @@ CONFIG_SUPPORT_AIBSS=y
 # CONFIG_LIBERTAS is not set
 # CONFIG_MWIFIEX is not set
 # CONFIG_LGUIWLAN is not set
+CONFIG_P2P=y
 
 #
 # Enable WiMAX (Networking options) to see the WiMAX drivers
